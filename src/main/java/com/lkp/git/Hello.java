@@ -8,6 +8,6 @@ public class Hello {
         System.out.println("hot-fix");
         System.out.println("master-conflix");
         System.out.println("confix-hot-fix");
-
+        System.out.println("pull test");
     }
 }
